@@ -1,1 +1,1 @@
-# managee-pract
+# Managee-pract project
